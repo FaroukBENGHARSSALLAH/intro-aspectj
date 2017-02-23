@@ -11,3 +11,5 @@ Some implemeted APIs:
 - [x] @Pointcut
 - [x] @Around
 - [x] @Aspect
+
+     You have to add aspectjtools-1.8.2.jar to your classpath, to get the project working correctly

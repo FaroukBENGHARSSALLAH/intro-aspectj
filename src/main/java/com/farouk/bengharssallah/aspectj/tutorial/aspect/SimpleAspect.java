@@ -12,7 +12,7 @@ import com.farouk.bengharssallah.aspectj.tutorial.target.Target;
    @Aspect
 public class SimpleAspect {
 	
-	 private long startTime, finishTime;
+	  private long startTime, finishTime;
 	 
 	        /* without using a @Pointcut */
 	   
